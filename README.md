@@ -1,6 +1,4 @@
-# 💲 Cryptocurrency-Dashboard 📊
-
-  ![Uploading CryptoBitcoinGIF.gif…]()
+# 💲Cryptocurrency-Dashboard📊
 
   📍 Page 1 : 
   
