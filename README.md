@@ -1,4 +1,4 @@
-# 💲Cryptocurrency-Dashboard📊
+# 💲Cryptocurrency Dashboard📊
 
   📍 Page 1 : 
   
