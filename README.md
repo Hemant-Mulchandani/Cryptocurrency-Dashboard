@@ -2,7 +2,7 @@
 
   📍 Page 1 : 
   
-  ![Screen](Assets/Screenshot 2022-09-23%20%205449.jpg)
+  ![Screen](Assets/Screenshot%202022-09-23%20205449.jpg)
 
   ![Dashboard-Screenshot](Assets/Cryptocurrency_Dashboard_Page-1.png) 
   
