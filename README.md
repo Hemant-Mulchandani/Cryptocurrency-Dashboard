@@ -1,6 +1,8 @@
 # 💲Cryptocurrency Dashboard📊
 
   📍 Page 1 : 
+  
+  ![](Assets/Screenshot 2022-09-23 205449.jpg)
 
   ![Dashboard-Screenshot](Assets/Cryptocurrency_Dashboard_Page-1.png) 
   
