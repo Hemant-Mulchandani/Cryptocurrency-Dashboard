@@ -1,6 +1,4 @@
-<p align="center">
-  # 💲Cryptocurrency Dashboard📊
-</p>
+# 💲Cryptocurrency Dashboard📊
 
   Microsoft's Power BI software is one of the most popular and robust Business Intelligence solutions on the market. Power BI offers interactive data visualization and analysis for both cloud and on-prem environments. Power BI also offers data warehouse capabilities including data preparation, data discovery and interactive dashboards.
   
