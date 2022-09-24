@@ -5,13 +5,17 @@
   One can mine data from any source and design BI Dashboards & Reports for organizations across all industries. The following example showcase Power BI's User Interface and functionality.
   
   I have developed one of the first Power BI dashboards utilizing the [Kaggle Dataset](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory) which contains high, low, open, and close prices for💲23 cryptocurrencies including Bitcoin, Ethereum, Dogecoin, etc. Since the inception of these 23 cryptocurrencies, we can easily analyze patterns and anomalies.📈
-  
-  ![BitcoinMoneyGIF](https://user-images.githubusercontent.com/89768465/192094311-f8aaa3f2-d39d-42ac-b0be-661b30727100.gif)
 
-  📍 Page 1 : 
+##  🧮 Page 1 : 
 
   ![Dashboard-Screenshot](Assets/Cryptocurrency_Dashboard_Page-1.png) 
   
-  📍 Page 2 : 🔗
+##  🧮 Page 2 : 
   
   ![Dashboard-Screenshot](Assets/Cryptocurrency_Dashboard_Page-2.png)
+
+![BitcoinFuturesGIF](https://user-images.githubusercontent.com/89768465/192094536-795f30c0-1461-41ed-80e1-0aad37ece6bf.gif)
+
+![BitcoinBlockchainGIF](https://user-images.githubusercontent.com/89768465/192094560-27e40e04-1f50-4ea0-b98e-ce5c65feb402.gif)
+
+![BitcoinBuyGIF](https://user-images.githubusercontent.com/89768465/192094576-16cfcd69-5709-4992-ba69-43d6894c11a7.gif)
