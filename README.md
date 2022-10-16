@@ -2,7 +2,7 @@
 
   Microsoft's Power BI software is one of the most popular and robust Business Intelligence solutions on the market. Power BI offers interactive data visualization and analysis for both cloud and on-prem environments. Power BI also offers data warehouse capabilities including data preparation, data discovery and interactive dashboards.
   
-  One can mine data from any source and design BI Dashboards & Reports for organizations across all industries. The following example showcase Power BI's User Interface and functionality.
+  One can mine data from any source and design BI Dashboards & Reports for organizations across all industries. The following example showcases Power BI's User Interface and functionality.
  
  <p align="center">
   <img src="https://user-images.githubusercontent.com/89768465/192094536-795f30c0-1461-41ed-80e1-0aad37ece6bf.gif">
